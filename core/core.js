@@ -2,7 +2,7 @@
  * 全局参数
  */
 var gh = {
-    username: "tingtingyuan", //pages用户名
+    username: "TingtingYuan", //pages用户名
    // baseBlogUrl: "https://api.github.com/repos/tingtingyuan/tingtingyuan.github.io/contents/",//博客内容地址
     baseBlogUrl: "https://api.github.com/repos/TingtingYuan/blog/contents/"
     readmeTid: "blog/ABOUT/About Me.md",//个人主页标识
