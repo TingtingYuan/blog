@@ -1,5 +1,7 @@
 ## 作者的话
 
+###Tingting YUAN
+
 我的 [**gitHub账号**](https://github.com/TingtingYuan)
 
 这是一个简易的博客。
