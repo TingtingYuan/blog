@@ -1,16 +1,21 @@
 /**
  * 全局参数
  */
+
 var gh = {
-    username: "eastzq", //pages用户名
+    username: "TingtingYuan", //pages用户名
     baseBlogUrl: "https://api.github.com/repos/eastzq/eastzq.github.io/contents/",//博客内容地址
+    //baseBlogUrl: "https://api.github.com/repos/TingtingYuan/blog/contents/"
     readmeTid: "blog/ABOUT/About Me.md",//个人主页标识
     treeUrl: "https://api.github.com/repos/eastzq/eastzq.github.io/git/trees/master?recursive=1",//所有文件地址
+    //treeUrl: "https://api.github.com/repos/TingtingYuan/blog/git/trees/master?recursive=1",//所有文件地址
     cache: {},//文件缓存
     clientID:"bd98ae7094366c0c7473",//gitalk专用 用户自定义授权app参数
     clientSecret:"238af78bbd953bd880d286ea5deef43f84c91638",//gitalk专用 用户自定义授权app参数
     commentRepo:"blogComment"//评论所在仓库
 };
+
+
 /**
  * api接口
  */
