@@ -2,7 +2,7 @@
  * 全局参数
  */
 var gh = {
-    username: "eastzq", //pages用户名
+    username: "bugua0615", //pages用户名
     baseBlogUrl: "https://api.github.com/repos/eastzq/eastzq.github.io/contents/",//博客内容地址
     readmeTid: "blog/ABOUT/About Me.md",//个人主页标识
     treeUrl: "https://api.github.com/repos/eastzq/eastzq.github.io/git/trees/master?recursive=1",//所有文件地址
